@@ -1,4 +1,4 @@
-class Chap2Excersize2{
+class Chap2Exercise2{
   public static void main(String[] args){
     for (int i = 0; i < 13; i++){
       double i1 = Math.random();
