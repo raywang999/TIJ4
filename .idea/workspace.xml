@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc5954a1-d23d-4b15-8e76-c7d6aa83dafa" name="Default" comment="" />
+    <list default="true" id="cc5954a1-d23d-4b15-8e76-c7d6aa83dafa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter12/src/Excersize5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12/src/Excersize5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Excersize5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter12/Excersize5.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +32,7 @@
       <file leaf-file-name="Receipt4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter12/src/Receipt4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="88">
               <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
@@ -36,10 +41,10 @@
       <file leaf-file-name="Excersize5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter12/src/Excersize5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="145" selection-start-line="14" selection-start-column="145" selection-end-line="14" selection-end-column="145" />
+            <state relative-caret-position="496">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#646#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -49,7 +54,7 @@
       <file leaf-file-name="Conversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
+            <state relative-caret-position="154">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
@@ -111,6 +116,9 @@
       <replace>format</replace>
       <replace>&quot;%&quot; + itemF + &quot;.15s %&quot; + QtyF +&quot;d %&quot; + PriceF + &quot;.2f\n&quot;</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,12 +182,12 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +250,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -400,11 +409,11 @@
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.4036965" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.35505837" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.065625" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.065104164" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -761,7 +770,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter12/src/Receipt4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="88">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
@@ -782,17 +791,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="154">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter12/src/Excersize5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="145" selection-start-line="14" selection-start-column="145" selection-end-line="14" selection-end-column="145" />
+        <state relative-caret-position="496">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#646#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
