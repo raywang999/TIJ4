@@ -2,8 +2,584 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5954a1-d23d-4b15-8e76-c7d6aa83dafa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter12/src/StartEnd13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/Chapter13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/CoffeeGenerator12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/CoffeeGenerator16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise20Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/PetFactories15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/RegisteredFactories13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/RegisteredFactories14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Shapes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Shapes4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Shapes5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/Shapes6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ShowMethods17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ShowMethods17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ShowMethods18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/SweetShop7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ToyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ToyTest19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter13/src/ToyTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ideas/src/getMethodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter12/Helper/chineseRestaurant.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter12/Helper/hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter12/Helper/string.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter12/Helper/yo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Buzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Circle3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Circle4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Circle5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Circle6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/CoffeeGenerator12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Cookie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Exercise10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Exercise11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Exercise8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Exercise9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/FancyToy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Gum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/HasBatteries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Rhomboid3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Rhomboid4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shape3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shape4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shape5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shape6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shapes3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shapes4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shapes5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shapes6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Shoots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Speaks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Square3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Square4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Square5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Square6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/SweetShop7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Toy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/ToyTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/ToyTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Triangle3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Triangle4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Triangle5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Triangle6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/Waterproof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/aa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter13/g.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter8/Exercise9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/Exercise15$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/Exercise15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise10$1Murloc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise11$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise11$Biotic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise18$Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise26$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise7$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise7$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise7$Inner2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise8$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise9$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise9$1Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chapter9/Exercise9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Chap2Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TIJ4/Exercise9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter8/src/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/src/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/ATypeName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/AllTheColorsOfTheRainbow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/DataOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise1.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise10.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise11.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise2.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise3.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise4.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise6.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise7.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise8.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Exercise9.java-e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/Incrementable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter1/storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Alvin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Chipmunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Despereaux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Eddie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Excersize16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/RandomRodentGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Rodent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Chapter10/src/Shared.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize21_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize30$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Filler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Knife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter10/Word2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Annoyance30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/ArguedIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/ArguedOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/AutoLog1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/AutoLog2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/BaseballException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/BaseballException29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Disaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Disposable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Earthquake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exc10MyException1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exc10MyException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exc10MyException3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exception1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exception2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Exception3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/FailingConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/FailingConstructor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/FailingConstructor3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Foul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Foul29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Human30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/IHaveTwoMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Inning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Inning29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/MyException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/OnOffException1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/OnOffException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/PeruEarthquake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/PopFoul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/PopFoul29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/RainedOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/RainedOut29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Sneeze30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Storm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Storm29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/StormException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/StormException29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/StormyArguedIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/StormyInning29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Strike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Strike29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/TestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/Umpire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/UmpireArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter11/UnreasonableArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Chapter12/src/Exercise7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Exercise9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Groups12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/InfinteRecursion2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Receipt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/SprinklerSystem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/StartEnd13$Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/StartEnd13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/Turtle3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter12/WaterSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/MethodAliasing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/aliasing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/changable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Bottles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Comt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Cup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Cups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize21$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/ExplicitStaticEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Finalizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Finalizeable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Go.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/SS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/VarargTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/peeler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/synth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize1Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter5/proData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Amphibian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Art1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Cartoon1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Component1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Component2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Component3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Drawing1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/FinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Graphite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/OnlyOnce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Over.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/OverAttempt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Pencil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Root.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/StaticFinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Stem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/Uninheritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6/base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/AlertStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Alvin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Chipmunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Despereaux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Eddie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/RandomRodentGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Rodent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Chapter7/src/Shared.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Dual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Starship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Tricycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/Unicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/AbsPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/AbsPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/AbsPrintable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/AbsPrintable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/AbstractTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/AbstractTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/All.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/All.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Bicycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Bicycle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Bicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Box2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Box2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/CharSeqPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/CharSeqPro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/CharSeqProAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/CharSeqProAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Chipmunk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Chipmunk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Coin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Coin$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Coin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Cycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/CycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/CycleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Dice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Dice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/DiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/DiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Empty2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Empty2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Gambling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Gambling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/GamblingFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/GamblingFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Gerbil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Int1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Int1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Int2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Int2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Inter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Inter1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Inter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Inter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Inter3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Inter3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/MulInt1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/MulInt1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/MulInt2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/MulInt2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/MulInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/MulInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/RandomRodentGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/RandomRodentGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Rodent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Shared.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/StaticFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/StaticFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Swapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Swapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/SwapperAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/SwapperAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Tricycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Tricycle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Tricycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Unicycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Unicycle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Unicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter8/Yup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter8/Yup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/A$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/A$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/Excersize15$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/Excersize15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/NoArg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Chapter9/src/NoArg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize10$1Murloc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize11$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize11$Biotic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize18$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize26$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize7$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize7$Inner2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize8$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize9$1Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Excersize9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/HasInner$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/HasInner$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/HasInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/HasInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Hey$Jude.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Hey$Jude.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Hey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Hey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Holder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Hotel$Room$Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Hotel$Room$Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Hotel$Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Hotel$Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Hotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Imp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Imp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/In$Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/In$Nested.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Inn$Room$Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Inn$Room$Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Inn$Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Inn$Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Inn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Inn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Nested$In.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Nested$In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Nested.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Selector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Sequence$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Sequence$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/U.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/U.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/WithIn$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/WithIn$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/WithIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/WithIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter9/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter9/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/CentralTendency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/Disposeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/Exponents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/Formattest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/ReverseInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/VNSEE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ideas/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/BreakAndContinue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ4/BreakAndContinue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Chap2Excersize2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ4/Excersize9.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,54 +594,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Groups12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter12/src/Groups12.java">
+      <file leaf-file-name="ToyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/toys/ToyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <state relative-caret-position="352">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToyTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/ToyTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToyTest19.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/ToyTest19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
+                <element signature="e#0#1659#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartEnd13.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter12/src/StartEnd13.java">
+      <file leaf-file-name="Exercise20.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="331">
+              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise8.java">
+      <file leaf-file-name="Exercise20Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise20Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Groups.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Groups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="13" column="29" lean-forward="true" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartEnd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/StartEnd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="220">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -94,6 +671,7 @@
       <find>&quot;%-15s %5s %10.2f\n&quot;</find>
       <find>&quot;%-15s %5s %10</find>
       <find>Groups</find>
+      <find>System.out.println</find>
     </findStrings>
     <replaceStrings>
       <replace>Sy</replace>
@@ -102,13 +680,13 @@
       <replace>Rodent.printinit</replace>
       <replace>key++</replace>
       <replace>String</replace>
-      <replace>print</replace>
       <replace>Excersize20</replace>
       <replace>Annoyance30</replace>
       <replace>InfinteRecursion2</replace>
       <replace>format</replace>
       <replace>&quot;%&quot; + itemF + &quot;.15s %&quot; + QtyF +&quot;d %&quot; + PriceF + &quot;.2f\n&quot;</replace>
       <replace>Groups12</replace>
+      <replace>print</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,61 +695,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../TIJ4-code/innerclasses/Sequence.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize13.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Switch.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/OnOffException.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/OnOffException1.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/OnOffExcepton2.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize14.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize15.java" />
-        <option value="$PROJECT_DIR$/../TIJ4-code/reusing/CADSystem.java" />
-        <option value="$PROJECT_DIR$/../TIJ4-code/polymorphism/Frog.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize18.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize19.java" />
-        <option value="$PROJECT_DIR$/../TIJ4-code/exceptions/LostMessage.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize20.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize21.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize22.java" />
-        <option value="$PROJECT_DIR$/Ideas/src/test.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize23.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize24.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize25.java" />
-        <option value="$PROJECT_DIR$/Ideas/src/Exceptions.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize26.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize3.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize27.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize4.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize28.java" />
-        <option value="$PROJECT_DIR$/../TIJ4-code/exceptions/StormyInning.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize29.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/StormyInning29.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Excersize30.java" />
-        <option value="$PROJECT_DIR$/Chapter11/src/Human30.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/SprinklerSystem1.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/InfiniteRecursion2.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/InfinteRecursion2.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Excersize3.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Turtle3.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Reciept4.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Receipt4.java" />
-        <option value="$PROJECT_DIR$/Ideas/src/Formattest.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Excersize5.java" />
-        <option value="$PROJECT_DIR$/Chapter1/src/Exercise1.java" />
-        <option value="$PROJECT_DIR$/Chapter1/src/test.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Exercise6.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Exercise7.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Exercise8.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Exercise9.java" />
-        <option value="$PROJECT_DIR$/Chapter12/src/Exercise10.java" />
         <option value="$PROJECT_DIR$/Chapter12/src/Exercise11.java" />
         <option value="$PROJECT_DIR$/Chapter12/src/Groups12.java" />
         <option value="$PROJECT_DIR$/Chapter12/src/Exercise13.java" />
         <option value="$PROJECT_DIR$/Chapter12/src/StartEnd13.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/SplitDemo14.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/JGrep15.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/JGrep15b.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/JGrep15a.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/JGrep16.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/Exercise17.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/Exercise18.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/Exercise19.java" />
+        <option value="$PROJECT_DIR$/Chapter12/src/Exercise20.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/ToyTest1.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/ToyTest2.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/polymorphism/shape/Rhomboid.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Shapes3.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Shapes4.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Shapes5.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Shapes6.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/SweetShop7.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise8.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise9.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise10.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/LiteralPetCreator.java" />
+        <option value="$PROJECT_DIR$/Chapter8/src/Exercise6.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/PetCount2.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise11.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/PetCount.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/generics/coffee/CoffeeGenerator.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/CoffeeGenerator12.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/RegisteredFactories2.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/RegisteredFactories12.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/RegisteredFactories12.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/RegisteredFactories14.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Individual.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Cat.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Pet.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Gerbil.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Person.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Individual15.java" />
+        <option value="$PROJECT_DIR$/../TIJ4-code/typeinfo/RegisteredFactories.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/PetFactories15.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/CoffeeGenerator16.java" />
+        <option value="$PROJECT_DIR$/Ideas/src/getMethodsTest.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/ShowMethods17.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/ShowMethods18.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/ToyTest19.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise20Test.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/Exercise20.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1280" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
@@ -183,6 +761,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,20 +772,24 @@
             <path>
               <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIJ4" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIJ4" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIJ4" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIJ4" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SprinklerSystem1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
@@ -228,38 +811,57 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
+              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
+              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+              <item name="ToyTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="NonCollection&#9;FILE&#9;file:///Users/ray/Documents/Programming/TIJ4-code/holding/NonCollectionSequence.java&#10;statistics.ja&#9;FILE&#9;file:///Users/ray/Documents/Programming/TIJ4-code/holding/Statistics.java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Chapter9/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Chapter9/src" />
-    <property name="SearchEverywhereHistoryKey" value="NonCollection&#9;FILE&#9;file:///Users/ray/Documents/Programming/TIJ4-code/holding/NonCollectionSequence.java&#10;statistics.ja&#9;FILE&#9;file:///Users/ray/Documents/Programming/TIJ4-code/holding/Statistics.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter13/src" />
+      <recent name="$PROJECT_DIR$/../TIJ4-code/typeinfo/pets" />
+      <recent name="$PROJECT_DIR$/../TIJ4-code/polymorphism/shape" />
+      <recent name="$PROJECT_DIR$/Chapter10/src" />
+      <recent name="$USER_HOME$/Java/Excersize5" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/Chapter10/" />
       <recent name="$PROJECT_DIR$/AllDoc" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/Chapter3" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Chapter10/src" />
-      <recent name="$USER_HOME$/Java/Excersize5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,36 +876,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StartEnd13">
+  <component name="RunManager" selected="Application.Exercise20Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise10" />
-      <module name="Chapter12" />
+    <configuration name="CoffeeGenerator16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoffeeGenerator16" />
+      <module name="Chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercise11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise11" />
-      <module name="Chapter12" />
+    <configuration name="Exercise20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise20" />
+      <module name="Chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise9" />
-      <module name="Chapter12" />
+    <configuration name="Exercise20Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise20Test" />
+      <module name="Chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Groups12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Groups12" />
-      <module name="Chapter12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="StartEnd13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StartEnd13" />
-      <module name="Chapter12" />
+    <configuration name="ToyTest19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToyTest19" />
+      <module name="Chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="getMethodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getMethodsTest" />
+      <module name="Ideas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -345,19 +947,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Exercise9" />
-      <item itemvalue="Application.Exercise10" />
-      <item itemvalue="Application.Exercise11" />
-      <item itemvalue="Application.Groups12" />
-      <item itemvalue="Application.StartEnd13" />
+      <item itemvalue="Application.CoffeeGenerator16" />
+      <item itemvalue="Application.getMethodsTest" />
+      <item itemvalue="Application.ToyTest19" />
+      <item itemvalue="Application.Exercise20" />
+      <item itemvalue="Application.Exercise20Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartEnd13" />
-        <item itemvalue="Application.Groups12" />
-        <item itemvalue="Application.Exercise11" />
-        <item itemvalue="Application.Exercise10" />
-        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise20Test" />
+        <item itemvalue="Application.Exercise20" />
+        <item itemvalue="Application.ToyTest19" />
+        <item itemvalue="Application.getMethodsTest" />
+        <item itemvalue="Application.CoffeeGenerator16" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +983,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -396,20 +997,20 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.22178988" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.10625" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.14895834" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3291262" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39980546" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3291262" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -417,265 +1018,436 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chapter13/src/Exercise10.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize19.java" />
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/exceptions/LostMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize20.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize21.java" />
-    <entry file="file://$PROJECT_DIR$/Ideas/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize23.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize22.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize24.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize25.java" />
-    <entry file="file://$PROJECT_DIR$/Ideas/src/Exponents.java" />
-    <entry file="file://$PROJECT_DIR$/Ideas/src/Exceptions.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize3.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize26.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize27.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize4.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Excersize28.java" />
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/exceptions/StormyInning.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/exceptions/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/exceptions/StormyInning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/StormyInning29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/Human30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/exceptions/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="20" lean-forward="true" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Excersize1.java" />
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/reusing/SprinklerSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/SprinklerSystem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/InfiniteRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" column="13" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Turtle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" column="13" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Turtle3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Receipt4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Excersize5.java" />
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Receipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ideas/src/Formattest.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise5.java-e" />
-    <entry file="file://$PROJECT_DIR$/Chapter1/src/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter1/src/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Conversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Replacing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Splitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/InfinteRecursion2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise5.java">
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/SweetShop7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#723#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise7.java">
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/SweetShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="410">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/EgyptianMau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Pets.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/Groups.java">
+    <entry file="file://$USER_HOME$/Java/Chapter8/Excersize6/Pub.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="29" lean-forward="true" selection-end-line="34" />
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Exercise8.java">
+    <entry file="file://$USER_HOME$/Java/Chapter8/Excersize6/Excersize6.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="132">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code/strings/StartEnd.java">
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/Exercise6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/Groups12.java">
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="198">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/RegisteredFactories12.java" />
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/RegisteredFactories14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#3043#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#628#651#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#2279#2280#0" expanded="true" />
+            <element signature="e#2319#2320#0" expanded="true" />
+            <element signature="e#2494#2495#0" expanded="true" />
+            <element signature="e#2538#2539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Shapes3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/RegisteredFactories13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Pug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Gerbil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/PetCount3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/PetCount2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/PetCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter12/src/StartEnd13.java">
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/ForNameCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/net/mindview/util/TypeCounter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/PetFactories15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Pets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/LiteralPetCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/PetCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/CoffeeGenerator12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/generics/coffee/Americano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/generics/coffee/CoffeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#1504#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/generics/coffee/Breve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/generics/coffee/Cappuccino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/generics/coffee/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/RegisteredFactories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/pets/Individual15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/CoffeeGenerator16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ideas/src/getMethodsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/ShowMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/ShowMethods17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#2165#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/ShowMethods18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#0#2334#0" expanded="true" />
+            <element signature="e#1955#1956#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIJ4-code/typeinfo/toys/ToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/ToyTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/ToyTest19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1659#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise20Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/Exercise20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
